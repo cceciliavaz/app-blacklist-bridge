@@ -1,27 +1,28 @@
-#AppBlacklistBridge
+# AppBlacklistBridge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.0.4.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Instalação
 
-## Code scaffolding
+Ao clonar o repositório, executar "npm install" para baixar todas as dependências locais
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Servidor de desenvolvimento
 
-## Build
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Descrição
 
-## Running unit tests
+Esse projeto é para gestão de mentorias para os Bridges da BlackList
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## BlackList
+Somos uma plataforma que conecta estudantes negros periféricos com empresas que buscam enegrecer a tecnologia, disponibilizando a elas uma lista de profissionais desenvolvidos e emponderados, por meio dos nossos ciclos formativos, rede de profissionais, consultorias e estudos.
 
-## Running end-to-end tests
+## Telas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://user-images.githubusercontent.com/73395116/212575508-f221139a-43df-4511-a518-4b807eeb730a.png)
 
-## Further help
+![image](https://user-images.githubusercontent.com/73395116/212575660-0b26a74c-86cd-40e3-87f2-ef76f4dfbaeb.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/73395116/212575718-7e9db153-6e42-4ee8-97e9-fab3ada13ef9.png)
+
